@@ -6,6 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiyoojeong@gmail.com)](mailto:hiyoojeong@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hiyoojeong)](https://velog.io/@hiyoojeong)
 
-### Actually, I am ... [hiyoojeong](https://github.com/hiyoojeong)
+### Actually, I am ... [hiyoojeong](https://github.com/hiyoojeong) ♥️
 
 ![쇼콜라바닐림](https://user-images.githubusercontent.com/127427036/224086345-a0e2df95-803f-4274-9e49-10eea095c6af.png)
